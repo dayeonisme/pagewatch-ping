@@ -22,6 +22,7 @@
 ## 실행 방법
 
 ```bash
+git clone https://github.com/dayeonisme/pagewatch-ping.git
 cd pagewatch-ping
 export PAGEWATCHPING_TELEGRAM_BOT_TOKEN="your-bot-token"
 export PAGEWATCHPING_TELEGRAM_CHAT_ID="your-chat-id"
